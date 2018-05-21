@@ -26,7 +26,6 @@ public class PrimeNumber {
             throws PrimeNumberException, TechnicalException {
 
         // TODO Write your implementation here.
-
         return false;
     }
 
