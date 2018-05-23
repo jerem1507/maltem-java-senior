@@ -1,6 +1,8 @@
 package lu.maltem.exercise1;
 
 
+import lu.maltem.exceptions.PrimeNumberException;
+import lu.maltem.exceptions.TechnicalException;
 import org.junit.Assert;
 import org.junit.Test;
 

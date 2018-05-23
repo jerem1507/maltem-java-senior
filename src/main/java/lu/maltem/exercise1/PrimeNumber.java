@@ -1,5 +1,8 @@
 package lu.maltem.exercise1;
 
+import lu.maltem.exceptions.PrimeNumberException;
+import lu.maltem.exceptions.TechnicalException;
+
 public class PrimeNumber {
 
 

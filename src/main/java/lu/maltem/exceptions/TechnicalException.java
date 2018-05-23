@@ -1,4 +1,4 @@
-package lu.maltem.exercise1;
+package lu.maltem.exceptions;
 
 public class TechnicalException {
 
